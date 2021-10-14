@@ -1,0 +1,14 @@
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.csproj.AssemblyReference.cache
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.AssemblyInfoInputs.cache
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.AssemblyInfo.cs
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.csproj.CoreCompileInputs.cache
+C:\workspace\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\UP.Ebooks.exe
+C:\workspace\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\UP.Ebooks.deps.json
+C:\workspace\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\UP.Ebooks.runtimeconfig.json
+C:\workspace\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\UP.Ebooks.runtimeconfig.dev.json
+C:\workspace\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\UP.Ebooks.dll
+C:\workspace\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\UP.Ebooks.pdb
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.dll
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.pdb
+C:\workspace\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\UP.Ebooks.genruntimeconfig.cache

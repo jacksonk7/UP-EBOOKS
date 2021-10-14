@@ -1,0 +1,37 @@
+namespace UP.Ebooks
+{
+	public enum Genero
+	{
+		Admnistração = 1,
+		Artes = 2,
+		AutoAjuda = 3,
+		Ciências_Biológicas = 4,
+		Ciências_Exatas = 5,
+		Ciências_Humanas_E_Sociais = 6,
+		Contabilidade = 7,
+		Gastronomia = 8,
+		Cursos_E_Idiomas = 9,
+		Didáticos = 10,
+		Dicionários_E_Manuais = 11,
+		Direito = 12,
+		Economia = 13,
+		Engenharia_E_Tecnologia = 14,
+		Esoterismo = 15,
+		Espiritismo = 16,
+		Esportes_E_Lazer = 17,
+		Geografia_E_Historia = 18,
+		Informática = 19,
+		Linguística = 20,
+		Literatura_Estrangeira = 21,
+		Literatura_Infanto_Juvenil = 22,
+		Literatura_Brasileira = 23,
+		Medicina = 24,
+		Pocket_Books = 25,
+		Psicologia_E_Psicanálise = 26,
+		Religião = 27,
+		Turismo = 28,
+		Diversos = 29,
+		Produtos_Descontinuados = 30,
+		HQS = 31,
+	}
+}
